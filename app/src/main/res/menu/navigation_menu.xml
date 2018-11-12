@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group>
+        <item android:id="@+id/subjects"
+              android:icon="@drawable/ic_action_name"
+              android:title="Subjects"/>
+        <item android:id="@+id/notifications"
+              android:icon="@drawable/ic_notifications"
+              android:title="Notifications"/>
+        <item android:id="@+id/grades"
+              android:icon="@drawable/ic_grades"
+              android:title="Grades"/>
+        <item android:id="@+id/teachers"
+              android:icon="@drawable/ic_teachers"
+              android:title="Teachers"/>
+        <item android:id="@+id/communities"
+              android:icon="@drawable/ic_communities"
+              android:title="Communities"/>
+    </group>
+
+
+</menu>
